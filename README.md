@@ -10,4 +10,4 @@
 <img width="2000" height="1143" alt="step3" src="https://github.com/user-attachments/assets/30e3ba35-e5cb-4810-9697-d7731443feff" />
 <img width="2000" height="1143" alt="step4" src="https://github.com/user-attachments/assets/476679d5-67ec-4df3-bae6-fd749f81d990" />
 <img width="2000" height="1143" alt="Step5" src="https://github.com/user-attachments/assets/48f9bc6b-4bfb-4cfa-837e-d8803df8fd98" />
-<img width="2000" height="1143" alt="Step6" src="https://github.com/user-attachments/assets/0769efef-f426-4a61-b8e0-7d8934446bdb" />
+<img width="2000" height="1143" alt="Step6" src="https://github.com/user-attachments/assets/3b5aba69-44cb-46e2-9fc4-fa5f77e443b4" />
